@@ -1,7 +1,6 @@
 /**
  * Created by faide on 2016-02-27.
  */
-/// <reference path='../typings/tsd.d.ts'/>
 
 import '../css/normalize.css';
 import '../css/skeleton.css';
